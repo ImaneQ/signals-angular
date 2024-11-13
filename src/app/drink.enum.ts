@@ -1,4 +1,4 @@
 export enum Drink {
-  Water = 'WATTER',
+  Water = 'WATER',
   Coffee = 'COFFEE'
 }
